@@ -19,8 +19,8 @@ class Calc {
 		return a-b;
 	}
 	
-	public int mul(double a, double b) {
-		return -1;
+	public double mul(double a, double b) {
+		return a*b;
 	}
 	
 	public int div(double a, double b) {
